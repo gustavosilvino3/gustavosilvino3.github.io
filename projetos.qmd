@@ -1,0 +1,9 @@
+---
+title: "Meus projetos:  "
+---
+
+ -------------------------
+
+### [Regressão Linear Aplicada: A influência dos gastos publicitários nas vendas.](https://github.com/gustavosilvino3/analise_de_regressao)
+
+- Este projeto analisa a relação entre gastos publicitários em diferentes mídias (TV, rádio e jornais) e as vendas de produtos, utilizando modelos de regressão linear. Inclui visualizações, cálculos de correlação, e interpretação estatística para identificar quais mídias têm maior impacto nas vendas, ajudando a orientar decisões estratégicas de marketing.

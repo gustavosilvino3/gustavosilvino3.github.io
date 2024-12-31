@@ -1,0 +1,23 @@
+# Ignorar arquivos do sistema
+*.tmp
+*.log
+*.exe
+*.lnk
+*.dat
+*.ini
+
+# Ignorar pastas do sistema
+AppData/
+Documents/
+Downloads/
+Favorites/
+OneDrive/
+Desktop.ini
+
+# Ignorar arquivos de backup
+*.bak
+*.old
+
+
+
+/.quarto/

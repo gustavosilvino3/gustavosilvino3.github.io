@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "projetos.html",
+    "href": "projetos.html",
+    "title": "Meus projetos:",
+    "section": "",
+    "text": "Regressão Linear Aplicada: A influência dos gastos publicitários nas vendas.\n\nEste projeto analisa a relação entre gastos publicitários em diferentes mídias (TV, rádio e jornais) e as vendas de produtos, utilizando modelos de regressão linear. Inclui visualizações, cálculos de correlação, e interpretação estatística para identificar quais mídias têm maior impacto nas vendas, ajudando a orientar decisões estratégicas de marketing."
+  },
+  {
+    "objectID": "contato.html",
+    "href": "contato.html",
+    "title": "Entre em contato comigo!",
+    "section": "",
+    "text": "Meu perfil no Github (https://github.com/gustavosilvino3)\nMeu perfil no LinkedIn (https://www.linkedin.com/in/gustavo-silvino-93169122b)\nMeu e-mail para contato: gustavosilvino16@gmail.com"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#olá-me-chamo-gustavo-silvino-e-este-é-o-meu-portfólio",
+    "href": "index.html#olá-me-chamo-gustavo-silvino-e-este-é-o-meu-portfólio",
+    "title": "Gustavo Silvino | Portfólio",
+    "section": "Olá, me chamo Gustavo Silvino e este é o meu portfólio!",
+    "text": "Olá, me chamo Gustavo Silvino e este é o meu portfólio!\nAtualmente sou estudante de Estatística na Universidade Federal de Uberlândia, e estou criando este portfólio para expor projetos que estarei desenvolvendo ao longo de minha graduação.\nMeu maior interesse é em como os dados podem ser tratados, para que eles saiam de um estado onde é díficil a compreensão total, para que se tornem visuais de modo geral.\n\n\n🌐 Confira meus projetos aqui.\n📧 Entre em contato por aqui."
+  }
+]

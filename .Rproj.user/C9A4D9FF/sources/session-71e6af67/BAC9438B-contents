@@ -1,0 +1,22 @@
+project:
+  output-dir: _site
+  type: website
+
+website:
+  title: "Gustavo Silvino | Portfólio"
+  navbar:
+    left:
+      - text: "Sobre mim"
+        href: index.qmd
+      - text: "Projetos"
+        href: projetos.qmd
+      - text: "Contato"
+        href: contato.qmd
+    right:
+      - icon: github
+        href: https://github.com/gustavosilvino3
+
+format:
+  html:
+    theme: flatly
+    toc: true
