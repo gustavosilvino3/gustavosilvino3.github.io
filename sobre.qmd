@@ -11,7 +11,7 @@ editor:
 
 ### Gustavo
 
-[{{< fa brands github >}} GitHub](https://github.com/seu-usuario)
+[{{< fa brands github >}} GitHub](https://github.com/gustavosilvino3)
 [{{< fa brands linkedin >}}
 LinkedIn](https://linkedin.com/ingustavo-silvino-93169122b) 
 :::

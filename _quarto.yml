@@ -15,10 +15,10 @@ website:
       - text: "Projetos"
         href: portfolio/index.qmd
       - text: "Sobre"
-        href: about.qmd
+        href: sobre.qmd
     right:
       - icon: github
-        href: https://github.com/seu-usuario
+        href: https://github.com/gustavosilvino3
         aria-label: GitHub
       - icon: linkedin
         href: https://linkedin.com/in/gustavo-silvino-93169122b
