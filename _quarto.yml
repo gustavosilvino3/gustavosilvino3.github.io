@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+
+lang: pt-BR
+
+website:
+  title: "Gustavo Silvino"
+  favicon: images/favicon.png
+  
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Projetos"
+        href: portfolio/index.qmd
+      - text: "Sobre"
+        href: about.qmd
+    right:
+      - icon: github
+        href: https://github.com/seu-usuario
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://linkedin.com/in/gustavo-silvino-93169122b
+        aria-label: LinkedIn
+      
+  page-footer:
+    center: "Portfólio - Gustavo Silvino"
+
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme: [darkly, custom.scss]
+    highlight-style: a11y
+    toc: false
+    code-fold: true
+    code-summary: "Ver código"

@@ -1,0 +1,15 @@
+---
+title: "Projetos"
+description: |
+  Aqui você encontrará alguns dos trabalhos que desenvolvi nas áreas de análise de dados, estatística, automação e engenharia de dados. Explore os projetos para conhecer as ferramentas, metodologias e soluções que venho aplicando na prática para transformar dados em informação e gerar resultados.
+listing:
+  contents: posts
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: false
+  fields: [title, description, categories, date, reading-time]
+  date-format: "dd MMMM YYYY"
+page-layout: full
+---

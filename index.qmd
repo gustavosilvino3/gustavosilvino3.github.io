@@ -1,0 +1,23 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.hero-section}
+
+![](images/profile.jpg){.profile-pic alt="Foto de perfil"}
+
+### Gustavo Silvino
+
+::: {.subtitle}
+Seja bem-vindo(a)! Explore meus projetos e conheça algumas das soluções e análises que venho desenvolvendo nas áreas de dados, estatística e tecnologia. <br>
+
+Leia mais sobre mim [aqui](about.qmd).
+:::
+
+::: {.hero-buttons}
+[{{< fa brands github >}} GitHub](https://github.com/seu-usuario)
+[{{< fa brands linkedin >}} LinkedIn](https://linkedin.com/in/gustavo-silvino-93169122b)
+:::
+
+:::

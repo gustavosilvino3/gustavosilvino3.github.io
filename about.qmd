@@ -1,0 +1,108 @@
+---
+title: ""
+page-layout: article
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+::: about-header
+![](images/profile.jpg){alt="Foto de perfil"}
+
+### Gustavo
+
+[{{< fa brands github >}} GitHub](https://github.com/seu-usuario)
+[{{< fa brands linkedin >}}
+LinkedIn](https://linkedin.com/ingustavo-silvino-93169122b) 
+:::
+
+------------------------------------------------------------------------
+
+Sou estudante de Ciência de Dados e Estatística na Universidade Federal de Uberlândia (UFU), com experiência
+prática em análise e engenharia de dados. Tenho contato com construção
+de pipelines de ETL, integração de dados de diferentes fontes (APIs,
+scraping e bancos de dados) e organização de informações para análises
+mais estruturadas.
+
+Tenho familiaridade com ferramentas como Python, SQL, Excel e ambientes
+como Databricks, sempre buscando trabalhar os dados de forma eficiente e
+com qualidade. Gosto de transformar dados brutos em informações úteis,
+seja para análise, visualização ou apoio à tomada de decisão.
+
+Estou em constante evolução, buscando aprofundar meus conhecimentos
+técnicos e aplicar soluções práticas em projetos reais, com foco em
+dados e tecnologia.
+
+------------------------------------------------------------------------
+
+::: panel-tabset
+## Experiência
+
+**Estágio em Ciência de Dados - Sapiens Agro** — *Mar 2025 — Mar 2026*
+
+> Atuação como estagiário em análise e engenharia de dados, com coleta,
+> organização e padronização de dados de múltiplas fontes (APIs,
+> scraping e bancos de dados). Participação no desenvolvimento e
+> manutenção de pipelines de ETL em Databricks, com integração de dados
+> em Supabase. Suporte na manipulação e tratamento de dados utilizando
+> Python e SQL, incluindo bases estruturadas e não estruturadas. Apoio
+> na construção de análises voltadas à viabilidade financeira de
+> commodities Experiência com automatização de processos de padronização
+> de dados utilizando modelos de linguagem (LLMs). Auxílio na elaboração
+> de tabelas analíticas e relatórios para suporte à tomada de decisão.
+
+## Hard Skills
+
+**Linguagens**
+
+-   Python, SQL, R, C.
+
+**Pacotes R**
+
+-   tidyverse, ggplot2, dplyr, tidyr, lubridate, Shiny, plotly, caret,
+    tidymodels
+
+**Pacotes Python**
+
+-   pandas, NumPy, scikit-learn, Plotly, Matplotlib, Seaborn, PySpark,
+    LangChain, AzureChatOpenAI, requests, Beautiful Soup, supabase
+
+**Modelos**
+
+-   Regressão linear e múltipla, Random Forest, KNN, K-Means, Séries
+    Temporais
+
+**Tecnologias**
+
+-   PostgreSQL, Supabase, Databricks, Microsoft Azure, Google BigQuery.
+
+## Soft Skills
+
+Resolução de problemas, Pensamento Analítico, Boa Comunicação, Trabalho
+em Equipe.
+
+## Idiomas
+
+**Português** \| Nativo
+
+**Inglês** \| Avançado
+:::
+
+------------------------------------------------------------------------
+
+::: panel-tabset
+## Educação
+
+**Bacharelado em Ciência de Dados e Estatística** \| Universidade
+Federal de Uberlândia — *2024 – Atual*
+
+## Certificações
+
+## Atividades Extracurriculares
+
+**Empresa Júnior Laplace Consultoria - IME UFU**
+
+Atuação como porta-voz da empresa frente à universidade, parceiros
+estratégicos, clientes e em eventos, fortalecendo o posicionamento de
+mercado da consultoria.
+:::
