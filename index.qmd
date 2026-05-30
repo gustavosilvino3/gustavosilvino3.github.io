@@ -12,7 +12,7 @@ page-layout: full
 ::: {.subtitle}
 Seja bem-vindo(a)! Explore meus projetos e conheça algumas das soluções e análises que venho desenvolvendo nas áreas de dados, estatística e tecnologia. <br>
 
-Leia mais sobre mim [aqui](about.qmd).
+Leia mais sobre mim [aqui](sobre.qmd).
 :::
 
 ::: {.hero-buttons}

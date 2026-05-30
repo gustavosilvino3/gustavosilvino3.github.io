@@ -78,8 +78,13 @@ dados e tecnologia.
 
 ## Soft Skills
 
-Resolução de problemas, Pensamento Analítico, Boa Comunicação, Trabalho
-em Equipe.
+-   Resolução de problemas.
+-   Pensamento Analítico.
+-   Boa Comunicação.
+-   Trabalho em Equipe.
+-   Gestão de Tempo.
+-   Análise Crítica.
+-   Visão de Negócio.
 
 ## Idiomas
 
@@ -96,7 +101,15 @@ em Equipe.
 **Bacharelado em Ciência de Dados e Estatística** \| Universidade
 Federal de Uberlândia — *2024 – Atual*
 
+**Ensino Técnico em Automação Industrial** \| SENAI Prof. Dr. Euryclides de Jesus Zerbini - *2020 - 2022*
+
 ## Certificações
+
+**Implantação de Serviços em Nuvem – Google Cloud Foundations (GCP)** \| Google - *40h*
+
+**Python Data Fundamentals** \| datacamp - *28h*
+
+**Excel Avançado 2.0** \| Sigma Treinamentos - *40h*
 
 ## Atividades Extracurriculares
 
