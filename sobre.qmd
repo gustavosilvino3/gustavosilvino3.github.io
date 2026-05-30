@@ -40,16 +40,16 @@ dados e tecnologia.
 
 **Estágio em Ciência de Dados - Sapiens Agro** — *Mar 2025 — Mar 2026*
 
-> Atuação como estagiário em análise e engenharia de dados, com coleta,
-> organização e padronização de dados de múltiplas fontes (APIs,
-> scraping e bancos de dados). Participação no desenvolvimento e
-> manutenção de pipelines de ETL em Databricks, com integração de dados
-> em Supabase. Suporte na manipulação e tratamento de dados utilizando
-> Python e SQL, incluindo bases estruturadas e não estruturadas. Apoio
-> na construção de análises voltadas à viabilidade financeira de
-> commodities Experiência com automatização de processos de padronização
-> de dados utilizando modelos de linguagem (LLMs). Auxílio na elaboração
-> de tabelas analíticas e relatórios para suporte à tomada de decisão.
+ Atuação como estagiário em análise e engenharia de dados, com coleta,
+ organização e padronização de dados de múltiplas fontes (APIs,
+ scraping e bancos de dados). Participação no desenvolvimento e
+ manutenção de pipelines de ETL em Databricks, com integração de dados
+ em Supabase. Suporte na manipulação e tratamento de dados utilizando
+ Python e SQL, incluindo bases estruturadas e não estruturadas. Apoio
+ na construção de análises voltadas à viabilidade financeira de
+ commodities Experiência com automatização de processos de padronização
+ de dados utilizando modelos de linguagem (LLMs). Auxílio na elaboração
+ de tabelas analíticas e relatórios para suporte à tomada de decisão.
 
 ## Hard Skills
 
