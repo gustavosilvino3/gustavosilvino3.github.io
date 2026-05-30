@@ -9,7 +9,7 @@ editor:
 ::: about-header
 ![](images/profile.jpg){alt="Foto de perfil"}
 
-### Gustavo
+### Gustavo Silvino Costa
 
 [{{< fa brands github >}} GitHub](https://github.com/gustavosilvino3)
 [{{< fa brands linkedin >}}
