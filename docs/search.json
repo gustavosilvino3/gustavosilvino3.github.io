@@ -18,32 +18,32 @@
     "href": "portfolio/index.html",
     "title": "Projetos",
     "section": "",
-    "text": "Ordenar por\n      Padrão\n      \n        Título\n      \n      \n        Data - Mais antigo\n      \n      \n        Data - O mais novo\n      \n    \n  \n\n\n\n\nSem itens correspondentes\n De volta ao topo"
+    "text": "Ordenar por\n      Padrão\n      \n        Título\n      \n      \n        Data - Mais antigo\n      \n      \n        Data - O mais novo\n      \n    \n  \n\n\n\n\n\n\n\nSLVNO - Verificador de Dados\n\n1Min\n\n\nPython\n\nStreamlit\n\n\n\nAplicação em Python e Streamlit para auxiliar analistas na validação inicial de bases de dados, identificando problemas como valores ausentes, duplicatas, inconsistências e…\n\n\n\nDo maio 2026\n\n\n\n\n\n\nSem itens correspondentes\n De volta ao topo"
   },
   {
-    "objectID": "posts/slvno_verificador_dados.html",
-    "href": "posts/slvno_verificador_dados.html",
+    "objectID": "portfolio/posts/slvno_verificador_dados.html",
+    "href": "portfolio/posts/slvno_verificador_dados.html",
     "title": "SLVNO - Verificador de Dados",
     "section": "",
     "text": "O SLVNO - Verificador de Dados é uma aplicação desenvolvida para automatizar a etapa inicial de validação de bases de dados. O projeto permite que o usuário envie arquivos CSV ou Excel e receba um diagnóstico da qualidade da base, incluindo resumo geral, perfil das colunas, valores ausentes, linhas duplicadas, tipos suspeitos, categorias inconsistentes, possíveis outliers, score de qualidade e relatório exportável em Excel.\nO problema que o projeto resolve é uma dor comum de analistas de dados: antes de criar dashboards, análises ou modelos, muitas vezes é necessário gastar tempo verificando manualmente se a base possui erros, campos vazios, inconsistências ou problemas de estrutura. A ferramenta reduz esse trabalho inicial e ajuda a identificar rapidamente pontos que precisam de tratamento."
   },
   {
-    "objectID": "posts/slvno_verificador_dados.html#sobre-o-projeto",
-    "href": "posts/slvno_verificador_dados.html#sobre-o-projeto",
+    "objectID": "portfolio/posts/slvno_verificador_dados.html#sobre-o-projeto",
+    "href": "portfolio/posts/slvno_verificador_dados.html#sobre-o-projeto",
     "title": "SLVNO - Verificador de Dados",
     "section": "",
     "text": "O SLVNO - Verificador de Dados é uma aplicação desenvolvida para automatizar a etapa inicial de validação de bases de dados. O projeto permite que o usuário envie arquivos CSV ou Excel e receba um diagnóstico da qualidade da base, incluindo resumo geral, perfil das colunas, valores ausentes, linhas duplicadas, tipos suspeitos, categorias inconsistentes, possíveis outliers, score de qualidade e relatório exportável em Excel.\nO problema que o projeto resolve é uma dor comum de analistas de dados: antes de criar dashboards, análises ou modelos, muitas vezes é necessário gastar tempo verificando manualmente se a base possui erros, campos vazios, inconsistências ou problemas de estrutura. A ferramenta reduz esse trabalho inicial e ajuda a identificar rapidamente pontos que precisam de tratamento."
   },
   {
-    "objectID": "posts/slvno_verificador_dados.html#tecnologias-utilizadas",
-    "href": "posts/slvno_verificador_dados.html#tecnologias-utilizadas",
+    "objectID": "portfolio/posts/slvno_verificador_dados.html#tecnologias-utilizadas",
+    "href": "portfolio/posts/slvno_verificador_dados.html#tecnologias-utilizadas",
     "title": "SLVNO - Verificador de Dados",
     "section": "Tecnologias utilizadas",
     "text": "Tecnologias utilizadas\n\nPython\nStreamlit\nPandas\nPlotly\nOpenPyXL\nXlsxWriter\nRapidFuzz\nUnidecode"
   },
   {
-    "objectID": "posts/slvno_verificador_dados.html#acesse-o-projeto",
-    "href": "posts/slvno_verificador_dados.html#acesse-o-projeto",
+    "objectID": "portfolio/posts/slvno_verificador_dados.html#acesse-o-projeto",
+    "href": "portfolio/posts/slvno_verificador_dados.html#acesse-o-projeto",
     "title": "SLVNO - Verificador de Dados",
     "section": "Acesse o projeto",
     "text": "Acesse o projeto\nAbrir no Streamlit"

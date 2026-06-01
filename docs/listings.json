@@ -1,6 +1,8 @@
 [
   {
     "listing": "/portfolio/index.html",
-    "items": []
+    "items": [
+      "/portfolio/posts/slvno_verificador_dados.html"
+    ]
   }
 ]

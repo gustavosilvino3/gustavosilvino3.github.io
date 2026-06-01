@@ -84,7 +84,7 @@ ul.task-list li input[type="checkbox"] {
     const options = {
       valueNames: ['listing-title','listing-description','listing-categories','listing-date','listing-reading-time',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -189,7 +189,7 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todos <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categorias</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">Todos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHl0aG9u">Python <span class="quarto-category-count">(1)</span></div><div class="category" data-category="U3RyZWFtbGl0">Streamlit <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
@@ -241,7 +241,32 @@ window.Quarto = {
   </div>
 </div>
 <div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="UHl0aG9uJTJDU3RyZWFtbGl0" data-listing-date-sort="1780196400000" data-listing-file-modified-sort="1780274584377" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="137">
+<a href="../portfolio/posts/slvno_verificador_dados.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+SLVNO - Verificador de Dados
+</h5>
+<div class="listing-reading-time card-text text-muted">1Min</div>
+<div class="listing-categories">
 
+<div class="listing-category" onclick="window.quartoListingCategory('UHl0aG9u'); return false;">Python</div>
+
+<div class="listing-category" onclick="window.quartoListingCategory('U3RyZWFtbGl0'); return false;">Streamlit</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Aplicação em Python e Streamlit para auxiliar analistas na validação inicial de bases de dados, identificando problemas como valores ausentes, duplicatas, inconsistências e…</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Do maio 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
 </div>
 <div class="listing-no-matching d-none">Sem itens correspondentes</div>
 </div><a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> De volta ao topo</a></main> <!-- /main -->
