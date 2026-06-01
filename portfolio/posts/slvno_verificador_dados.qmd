@@ -6,6 +6,9 @@ categories: [Python, Streamlit]
 image: thumbnail.png
 ---
 
+![](thumbnail.png)
+
+
 ## Sobre o projeto
 
 O SLVNO - Verificador de Dados é uma aplicação desenvolvida para automatizar a etapa inicial de validação de bases de dados. O projeto permite que o usuário envie arquivos CSV ou Excel e receba um diagnóstico da qualidade da base, incluindo resumo geral, perfil das colunas, valores ausentes, linhas duplicadas, tipos suspeitos, categorias inconsistentes, possíveis outliers, score de qualidade e relatório exportável em Excel.
