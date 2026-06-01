@@ -9,7 +9,7 @@ listing:
   categories: true
   sort-ui: true
   filter-ui: false
-  fields: [title, description, categories, date, reading-time]
+  fields: [image, title, description, categories, date, reading-time]
   date-format: "dd MMMM YYYY"
 page-layout: full
 ---
