@@ -3,7 +3,7 @@ title: "SLVNO - Verificador de Dados"
 description: "Aplicação em Python e Streamlit para auxiliar analistas na validação inicial de bases de dados, identificando problemas como valores ausentes, duplicatas, inconsistências e possíveis outliers, com geração de score de qualidade e relatório em Excel."
 date: "2026-05-31"
 categories: [Python, Streamlit]
-image: capa.png
+image: thumbnail.png
 ---
 
 ## Sobre o projeto
